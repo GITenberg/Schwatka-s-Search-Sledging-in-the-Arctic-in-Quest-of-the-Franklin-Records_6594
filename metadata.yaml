@@ -1,0 +1,25 @@
+_repo: Schwatka-s-Search-Sledging-in-the-Arctic-in-Quest-of-the-Franklin-Records_6594
+creator:
+  author:
+    agent_name: Gilder, William H. (William Henry)
+    birthdate: 1838
+    deathdate: 1900
+    gutenberg_agent_id: '2105'
+    url: http://www.gutenberg.org/2009/agents/2105
+description: Author second-in-command of party of five, which sledged from Chesterfield
+  Inlet to King William Island and back, 1878-80.
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6594'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'Franklin, John, 1786-1847'
+- !lcsh 'Arctic regions'
+- !lcsh 'Schwatka, Frederick, 1849-1892'
+title: 'Schwatka''s Search: Sledging in the Arctic in Quest of the Franklin Records'
+url: http://www.gutenberg.org/ebooks/6594
